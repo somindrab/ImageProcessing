@@ -1,0 +1,6 @@
+Datasets/
+pytorch/Datasets/
+pytorch/images/
+__pycache__/
+pytorch/cnn/MNIST/
+*~
